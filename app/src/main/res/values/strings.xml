@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Database List App</string>
+    <string name="enter_data">_data_entry</string>
+    <string name="hint_title">_data_title</string>
+    <string name="hint_content">_data_content</string>
+    <string name="placeholder">placeholder</string>
+    <string name="cont_desc_delete">delete button</string>
+    <string name="del_msg">Are you sure you want to delete this entry?</string>
+
+    <string name="go">go</string>
+    <string name="submit">submit</string>
+    <string name="back_btn">back</string>
+    <string name="success_toast">Success!</string>
+    <string name="btn_error">Something went wrong with the buttons!</string>
+</resources>
